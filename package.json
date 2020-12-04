@@ -20,7 +20,7 @@
     "crypto-js": "^3.1.9-1",
     "dayjs": "^1.8.10",
     "echarts": "^4.2.0-rc.2",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.4.1",
     "html2canvas": "^1.0.0-alpha.12",
     "iview": "^3.3.0",
     "iview-area": "^1.5.17",
